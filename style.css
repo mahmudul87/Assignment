@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10px;
+    }
+h1{
+    font-size: 30px;
+    font-weight: bolder;
+    color: crimson;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 5%;
+    margin-left: 2%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 60%;
+    }
+.header{
+    background-image: url("personal-website/header-bg.png");
+}
+section{
+    height: 450px;
+    background-size: 800px;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+    
+
+}
+.anchor-button{
+    text-decoration: none;
+    background-color:crimson;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url("personal-website/biography-bg.png");
+    background-size: 80%;
+}
+#biography-paragraph{
+    padding-right: 35%;
+}
+#biography-image{
+    margin-left: 10%;
+}
+.tri-width img{
+    float: left;
+    width: 25%;
+    margin-left: 2%;
+}
+#latest-work-header{
+    margin-left: 35%;
+}
+.latest-work{
+    background-image: url("personal-website/latest-work-bg2.png");
+    background-size: 80%;
+    padding-bottom: 5px;
+}
+#footer{
+    margin-left: 35%;
+}
+#ceo{
+    font-size: 10px;
+}
+#footer-anchor{
+    text-decoration: none;
+    background-image:linear-gradient(crimson tomato);
+    padding: 30px 50px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border-top: 20px;
+}
+.footer-anchor-text{
+    font-size: 10px;
+}
+#anchor-gap{
+    padding-bottom: 50px;
+}
+.footer{
+    background-image: url("personal-website/footer-bg.png");
+    background-size: 65%;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
